@@ -64,7 +64,7 @@ html>
     </div>
   </div>
 
-  <div class="aimbot">
+  <div class="headtrick"
     <h2>Aimbot v1.0</h2>
     <p>Para jogos FPS clássicos. Disparo automático, mira suave.</p>
     <a href="#" class="button">Download</a>
