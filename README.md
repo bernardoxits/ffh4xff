@@ -87,7 +87,7 @@ html>
       document.getElementById("ativarAimbot").style.display = "block";
     }
 
-    function ativarAimbot() {
+    function ativarAimbotheadtrick() {
       const mensagem = ">> Aimbot Ativado com Sucesso.";
       const elemento = document.getElementById("mensagem");
       elemento.textContent = "";
